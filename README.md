@@ -13,6 +13,6 @@ Copy the directory for the them to `.themes`.
 
 > Note: Don't use the `example` theme here, it's bad.
 
-Copies of the original theme files from [git.sr.ht/~jacqueline/tangara-fw](https://git.sr.ht/~jacqueline/tangara-fw) can be found int the [stock](./stock) directory for inspiration (or if you really shoot yourself in the foot).
+Copies of the original theme files from [git.sr.ht/~jacqueline/tangara-fw](https://git.sr.ht/~jacqueline/tangara-fw) can be found in the [stock-themes](./stock-themes) directory for inspiration (or if you really shoot yourself in the foot).
 
 This could be a lot slicker, and maybe eventually will, but not right now.
