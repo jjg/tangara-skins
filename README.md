@@ -1,6 +1,8 @@
 # tangara-themes
 Skins for the worlds coolest music player
 
+> Don't use the example theme here, it's bad.
+
 Copy the `.lua` file for the desired theme onto your SD card in a directory named `.themes` as described in [the docs](https://cooltech.zone/tangara/docs/themes/).
 
 Copy the directory for the them to `.themes`.
