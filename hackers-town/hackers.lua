@@ -3,7 +3,7 @@ local font = require("font")
 
 local background_color = "#5a5474"
 local background_muted = "#464258"
-local text_color = "#eeeeee"
+local text_color = "#ffffff"
 local highlight_color = "#9773d3"
 local icon_enabled_color = "#eeeeee"
 local icon_disabled_color = "#6d6d69"
