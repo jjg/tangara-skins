@@ -1,5 +1,7 @@
 # tangara-themes
-Skins for the worlds coolest music player
+Skins for the [worlds coolest music player](https://cooltech.zone/tangara/)
+
+![Photo of Tangara with the Hackers.town skin](images/ht.jpeg)
 
 > Don't use the example theme here, it's bad.
 
